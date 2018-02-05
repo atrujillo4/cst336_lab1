@@ -1,5 +1,5 @@
-<!DOCTYPE html>
-<html>
+<!DOCTYPE php>
+<php>
 <!--
 
 First Website
@@ -17,7 +17,7 @@ in html
         <style>
            
         </style>
-        
+        <link href="css/styles.css" rel="stylesheet" type="text/css" />
         <link href="https://fonts.googleapis.com/css?family=Pacifico" rel="stylesheet">
     </head>
     
@@ -31,7 +31,7 @@ in html
         </header>
         <nav>
             <hr width="50%" />
-            <a href="index.html"><strong>Home</strong></a>
+            <a href="index.php"><strong>Home</strong></a>
             <a href="about.html">About</a>
             <a href="contact.html">Contact</a>
         </nav>
@@ -76,4 +76,4 @@ in html
     </body>
     <!-- closing body -->
 
-</html>
+</php>
